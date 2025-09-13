@@ -124,7 +124,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-## 🖥️ 𝗦𝘆𝘀𝘁𝗲𝗺 𝗕𝗹𝗼𝗰𝗸 𝗗𝗶𝗮𝗴𝗿𝗮𝗺
+## 🖥️ System Block Diagram
 <img width="957" height="857" alt="image" src="https://github.com/user-attachments/assets/5a16daf8-63a6-4c7f-ac2e-77426d5aa7bf" />
 
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
