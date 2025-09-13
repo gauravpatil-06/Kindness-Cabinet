@@ -6,8 +6,8 @@
 📱 Users can securely list items, manage donations, chat in-app, and track history with ease using XAMPP server + PHP APIs + MySQL backend.
 🏫 Designed as a Final Year IT Project, it demonstrates real-world impact using Android, PHP, and MySQL technologies.
 🌐 Aimed at building a digital community, it combines affordability, accessibility, and social good in one solution.
-
 <br>
+
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
 👤 𝗦𝗲𝗰𝘂𝗿𝗲 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 – Google Sign-In, OTP login, password protection, session management
