@@ -116,3 +116,17 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 
 🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲 – 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
 ![Website](https://github.com/user-attachments/assets/e6e7aab6-0685-4194-90dc-ba3dab3c514b)
+
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 🖥️ System Block Diagram
+<img width="957" height="857" alt="image" src="https://github.com/user-attachments/assets/5a16daf8-63a6-4c7f-ac2e-77426d5aa7bf" />
+
+## 📊 Data Flow Diagram (DFD)
+<img width="1141" height="745" alt="image" src="https://github.com/user-attachments/assets/d4d26678-d8df-49a7-9331-68278478f46d" />
+
+## 🔄 Flowchart
+<img width="955" height="653" alt="flowchart (2)" src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f" />
+
+
+
