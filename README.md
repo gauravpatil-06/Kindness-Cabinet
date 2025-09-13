@@ -39,64 +39,65 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 
 📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀
 
-<table bgcolor="white">
+<table border="0" cellspacing="10" cellpadding="10" align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       🚀 <b>Splash Screen</b><br>
-      <img src="https://github.com/user-attachments/assets/d5d970fc-9af6-4c44-b8e9-ce2463c61e2a" width="250"/>
+      <img src="https://github.com/user-attachments/assets/d5d970fc-9af6-4c44-b8e9-ce2463c61e2a" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       🔐 <b>Login Page</b><br>
-      <img src="https://github.com/user-attachments/assets/d2f03b85-365c-4085-bad5-8074bd00589c" width="250"/>
+      <img src="https://github.com/user-attachments/assets/d2f03b85-365c-4085-bad5-8074bd00589c" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       📲 <b>OTP Verification</b><br>
-      <img src="https://github.com/user-attachments/assets/44a11339-ea3c-44b8-8ec1-cf848760a7f8" width="250"/>
+      <img src="https://github.com/user-attachments/assets/44a11339-ea3c-44b8-8ec1-cf848760a7f8" width="250" style="background-color:white;"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       🏠 <b>Home Page</b><br>
-      <img src="https://github.com/user-attachments/assets/2608c99f-f90a-487e-8eb7-0b4a555e834b" width="250"/>
+      <img src="https://github.com/user-attachments/assets/2608c99f-f90a-487e-8eb7-0b4a555e834b" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       📂 <b>Side Navigation Drawer</b><br>
-      <img src="https://github.com/user-attachments/assets/f8c8fd39-0826-4572-8d1b-ffb4b5fcd002" width="250"/>
+      <img src="https://github.com/user-attachments/assets/f8c8fd39-0826-4572-8d1b-ffb4b5fcd002" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       ➕ <b>Add Product</b><br>
-      <img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250"/>
+      <img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250" style="background-color:white;"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       🗂️ <b>Categories</b><br>
-      <img src="https://github.com/user-attachments/assets/8a05848d-b245-474f-a452-59e90e9955d1" width="250"/>
+      <img src="https://github.com/user-attachments/assets/8a05848d-b245-474f-a452-59e90e9955d1" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       ⭐ <b>Favorite Product</b><br>
-      <img src="https://github.com/user-attachments/assets/fa5bca52-5345-4220-9f66-9aa28a20bae3" width="250"/>
+      <img src="https://github.com/user-attachments/assets/fa5bca52-5345-4220-9f66-9aa28a20bae3" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       🔎 <b>Search Product</b><br>
-      <img src="https://github.com/user-attachments/assets/d3d44bce-69c8-4f43-964e-ade63844f8f1" width="250"/>
+      <img src="https://github.com/user-attachments/assets/d3d44bce-69c8-4f43-964e-ade63844f8f1" width="250" style="background-color:white;"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       💳 <b>Payment</b><br>
-      <img src="https://github.com/user-attachments/assets/42138d7a-e15d-4b22-8130-15197cac8341" width="250"/>
+      <img src="https://github.com/user-attachments/assets/42138d7a-e15d-4b22-8130-15197cac8341" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       📦 <b>Order Received</b><br>
-      <img src="https://github.com/user-attachments/assets/8db39542-d13d-40a2-9d66-1d90e9f93e02" width="250"/>
+      <img src="https://github.com/user-attachments/assets/8db39542-d13d-40a2-9d66-1d90e9f93e02" width="250" style="background-color:white;"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color:white;">
       👤 <b>Admin Module</b><br>
-      <img src="https://github.com/user-attachments/assets/01d99aa5-e25a-4448-bd9a-eb7e97b7be67" width="250"/>
+      <img src="https://github.com/user-attachments/assets/01d99aa5-e25a-4448-bd9a-eb7e97b7be67" width="250" style="background-color:white;"/>
     </td>
   </tr>
 </table>
+
 
 
 
