@@ -54,9 +54,6 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
       <img src="https://github.com/user-attachments/assets/44a11339-ea3c-44b8-8ec1-cf848760a7f8" width="250"/>
     </td>
   </tr>
-
-  <tr><td colspan="3"><br><br></td></tr>
-  
   <tr>
     <td align="center">
       🏠 <b>Home Page</b><br>
@@ -71,9 +68,6 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
       <img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250"/>
     </td>
   </tr>
-
-  <tr><td colspan="3"><br></td></tr>
-
   <tr>
     <td align="center">
       🗂️ <b>Categories</b><br>
@@ -88,9 +82,6 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
       <img src="https://github.com/user-attachments/assets/d3d44bce-69c8-4f43-964e-ade63844f8f1" width="250"/>
     </td>
   </tr>
-
-  <tr><td colspan="3"><br></td></tr>
-
   <tr>
     <td align="center">
       💳 <b>Payment</b><br>
@@ -106,5 +97,6 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
     </td>
   </tr>
 </table>
+
 
 
