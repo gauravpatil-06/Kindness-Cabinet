@@ -39,7 +39,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 
 📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀
 
-<table border="0" cellspacing="10" cellpadding="10" align="center" style="background-color:white;">
+<table border="0"  align="center" style="background-color:white;">
   <tr>
     <td align="center">
       🚀 <b>Splash Screen</b><br>
