@@ -130,7 +130,144 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🔄 Flowchart
-<img width="955" height="653" alt="flowchart (2)" src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f" />
+<img width="955" height="653" alt="flowchart (2)" src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f"/>
+
+## 📂 Project Directory Structure
+
+├── .gitignore
+├── .idea
+│   ├── .gitignore
+│   ├── .name
+│   ├── appInsightsSettings.xml
+│   ├── compiler.xml
+│   ├── deploymentTargetDropDown.xml
+│   ├── deploymentTargetSelector.xml
+│   ├── gradle.xml
+│   ├── migrations.xml
+│   ├── misc.xml
+│   ├── runConfigurations.xml
+│   └── vcs.xml
+├── README.md
+├── app
+│   ├── .gitignore
+│   ├── build.gradle.kts
+│   ├── google-services.json
+│   ├── proguard-rules.pro
+│   └── src
+│       ├── androidTest
+│       │   └── java
+│       │       └── com
+│       │           └── gauravpatil
+│       │               └── kindnesscabinet
+│       │                   └── ExampleInstrumentedTest.java
+│       ├── main
+│       │   ├── AndroidManifest.xml
+│       │   ├── ic_launcher-playstore.png
+│       │   ├── java
+│       │   │   └── com
+│       │   │       └── gauravpatil
+│       │   │           └── kindnesscabinet
+│       │   │               ├── AboutUs
+│       │   │               │   └── About_Us_Activity.java
+│       │   │               ├── AddDonateorSell
+│       │   │               │   ├── AddFragment.java
+│       │   │               │   ├── DonateActivity.java
+│       │   │               │   └── SellerActivity.java
+│       │   │               ├── Admin
+│       │   │               │   ├── AddUser
+│       │   │               │   │   ├── AddUserActivity.java
+│       │   │               │   │   └── VerifyOTPActivity1.java
+│       │   │               │   ├── AdminLoginActivity.java
+│       │   │               │   ├── AllUser
+│       │   │               │   │   ├── AdapterGetAllUserDetails.java
+│       │   │               │   │   ├── AllUserActivity.java
+│       │   │               │   │   └── POJOGetAllUserDetails.java
+│       │   │               │   ├── History
+│       │   │               │   │   ├── AdapterAdminGetAllHistory.java
+│       │   │               │   │   ├── HistoryActivity.java
+│       │   │               │   │   └── POJOAdminGetAllHistory.java
+│       │   │               │   └── HomeAdminActivity.java
+│       │   │               ├── App_Info_Activity.java
+│       │   │               ├── CategoriesFragment.java
+│       │   │               ├── CategorywiseProductActivity.java
+│       │   │               ├── Comman
+│       │   │               │   ├── DashSpan.java
+│       │   │               │   ├── Urls.java
+│       │   │               │   └── VolleyMultipartRequest.java
+│       │   │               ├── Confirm_Register_MobileNo_Activity.java
+│       │   │               ├── Contact
+│       │   │               │   └── Contact_Us_Activity.java
+│       │   │               ├── Favorites
+│       │   │               │   ├── AdapterGetAllFavourite.java
+│       │   │               │   ├── FavoritesActivity.java
+│       │   │               │   ├── MoreDetailsFavouriteActivity.java
+│       │   │               │   └── POJOGetAllFavourite.java
+│       │   │               ├── Feedback
+│       │   │               │   └── Feedback_Activity.java
+│       │   │               ├── Forget_Password_Verify_OTP_Activity.java
+│       │   │               ├── History
+│       │   │               │   ├── AdapterGetAllHistory.java
+│       │   │               │   ├── HistoryFragment.java
+│       │   │               │   ├── MoreDetailsAllHistory.java
+│       │   │               │   └── POJOGetAllHistory.java
+│       │   │               ├── HomeActivity.java
+│       │   │               ├── HomeFragment
+│       │   │               │   └── HomeFragment.java
+│       │   │               ├── LoginActivity.java
+│       │   │               ├── MoreDetailsAllDonateandSellerInformationActivity.java
+│       │   │               ├── My_Profile_Activity.java
+│       │   │               ├── PaymentGateway
+│       │   │               │   ├── PaymentGatewayActivity.java
+│       │   │               │   └── Thank_YouActivity.java
+│       │   │               ├── ProfileFragment.java
+│       │   │               ├── ProgressBar.java
+│       │   │               ├── RegistrationActivity.java
+│       │   │               ├── Security_Privacy_Activity.java
+│       │   │               ├── SellActivity.java
+│       │   │               ├── SetUp_New_Password_Activity.java
+│       │   │               ├── Settings_Activity.java
+│       │   │               ├── SplashActivity.java
+│       │   │               ├── UpdateProfileActivity.java
+│       │   │               ├── VerifyOTPActivity.java
+│       │   │               ├── ViewProductRequest
+│       │   │               │   ├── AdapterGetRequest.java
+│       │   │               │   └── ViewProductRequestActivity.java
+│       │   │               └── java_classes
+│       │   │                   ├── AdapterGetAllCategoryDetails.java
+│       │   │                   ├── AdapterGetAllDonateandSellerInformation.java
+│       │   │                   ├── AdapterGetDonerSalerDetails.java
+│       │   │                   ├── NetworkChangeListener.java
+│       │   │                   ├── NetworkDetails.java
+│       │   │                   ├── POJOGetAllCategoryDetails.java
+│       │   │                   ├── POJOGetAllDonateandSellerInformation.java
+│       │   │                   └── POJOGetDonerSalerDetails.java
+│       │   └── res
+│           ├── anim
+│           │   └── fade_in_anim.xml
+│           ├── drawable
+│           │   ├── adduserlogo.png
+│           │   ├── app_logo.png
+│           │   └── ...
+│           ├── layout
+│           │   ├── activity_about_us.xml
+│           │   ├── activity_add_user.xml
+│           │   └── ...
+│           ├── values
+│           │   ├── colors.xml
+│           │   └── themes.xml
+│           └── xml
+│               ├── backup_rules.xml
+│               └── data_extraction_rules.xml
+├── build.gradle.kts
+├── google-services.json
+├── gradle.properties
+├── gradle
+│   ├── libs.versions.toml
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
 
 
 
