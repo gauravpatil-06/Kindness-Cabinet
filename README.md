@@ -39,10 +39,13 @@
 
 🌱 𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 – Encourages reusability and reduces environmental impact
 
+<br>
+
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
 Colleges, NGOs, and local communities who want a digital donation & resale service to promote sustainability, sharing, and social good.
 
+<br>
 
 📚 𝗦𝗸𝗶𝗹𝗹𝘀 𝗟𝗲𝗮𝗿𝗻𝗲𝗱 / 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 𝗨𝘀𝗲𝗱:
 
