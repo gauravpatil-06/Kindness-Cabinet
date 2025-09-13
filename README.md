@@ -134,6 +134,9 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 
 ## 📂 Project Directory Structure
 
+# 📂 Kindness Cabinet – Project Structure
+
+```bash
 ├── .gitignore
 ├── .idea
 │   ├── .gitignore
@@ -268,6 +271,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 │       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
+
 
 
 
