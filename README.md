@@ -37,8 +37,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 🎨 𝗨𝗜/𝗨𝗫 & 𝗔𝗽𝗽 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀: ListView, RecyclerView, Navigation Drawer, Material Design, custom components <br>
 💬 𝗔𝗽𝗽 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆: Chat integration, push notifications, OTP & Google Sign-In authentication <br>
 
-𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 – 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻 & 𝗥𝗲𝘀𝗮𝗹𝗲 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗔𝗽𝗽
-![app 1_page-0001](https://github.com/user-attachments/assets/806dc62e-ad08-4d08-a3d9-ec140ac36d50)
+![dczscfz](https://github.com/user-attachments/assets/d7efda73-f429-46a8-a9ac-e2bdbb0900f0)
 
 🚀 𝗦𝗽𝗹𝗮𝘀𝗵 𝗦𝗰𝗿𝗲𝗲𝗻 – 𝗔𝗽𝗽 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗯𝗿𝗮𝗻𝗱𝗶𝗻𝗴
 ![Splash Screen](https://github.com/user-attachments/assets/5c888f79-de66-45f3-927f-7884d78d6aab)
