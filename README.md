@@ -114,4 +114,5 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
   </tr>
 </table>
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲 – 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
+![Website](https://github.com/user-attachments/assets/e6e7aab6-0685-4194-90dc-ba3dab3c514b)
