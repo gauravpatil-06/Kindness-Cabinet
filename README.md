@@ -1,7 +1,7 @@
 # 🤝 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 – 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻 & 𝗥𝗲𝘀𝗮𝗹𝗲 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗔𝗽𝗽
 **🎓 Final Year IT Project**
 
-<hr style="border:1px solid #ccc; width:50%; margin:auto;">
+<hr style="border:0.50px solid #ccc; width:50%; margin:auto;">
 
 ## 🌍 About the Project
 **Kindness Cabinet** is a **digital donation & resale platform** that enables users to share, donate, or resell unused items such as clothes, books, gadgets, toys, furniture, and household goods.
