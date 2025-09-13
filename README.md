@@ -37,7 +37,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 🎨 𝗨𝗜/𝗨𝗫 & 𝗔𝗽𝗽 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀: ListView, RecyclerView, Navigation Drawer, Material Design, custom components <br>
 💬 𝗔𝗽𝗽 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆: Chat integration, push notifications, OTP & Google Sign-In authentication <br>
 
-![dczscfz](https://github.com/user-attachments/assets/d7efda73-f429-46a8-a9ac-e2bdbb0900f0)
+📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀:
 
 🚀 𝗦𝗽𝗹𝗮𝘀𝗵 𝗦𝗰𝗿𝗲𝗲𝗻 – 𝗔𝗽𝗽 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗯𝗿𝗮𝗻𝗱𝗶𝗻𝗴
 ![Splash Screen](https://github.com/user-attachments/assets/5c888f79-de66-45f3-927f-7884d78d6aab)
