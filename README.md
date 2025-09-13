@@ -132,6 +132,8 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 ## 🔄 Flowchart
 <img width="955" height="653" alt="flowchart (2)" src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f"/>
 
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
 ## 📂 Project Directory Structure
 
 ```bash
