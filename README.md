@@ -37,30 +37,53 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
 🎨 𝗨𝗜/𝗨𝗫 & 𝗔𝗽𝗽 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀: ListView, RecyclerView, Navigation Drawer, Material Design, custom components <br>
 💬 𝗔𝗽𝗽 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆: Chat integration, push notifications, OTP & Google Sign-In authentication <br>
 
-📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀:
+# 📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀
 
-🚀 𝗦𝗽𝗹𝗮𝘀𝗵 𝗦𝗰𝗿𝗲𝗲𝗻 – 𝗔𝗽𝗽 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗯𝗿𝗮𝗻𝗱𝗶𝗻𝗴
-![Splash Screen](https://github.com/user-attachments/assets/5c888f79-de66-45f3-927f-7884d78d6aab)
+<table>
+  <tr>
+    <td align="center">
+      🚀 <b>Splash Screen</b><br>
+      <img src="https://github.com/user-attachments/assets/5c888f79-de66-45f3-927f-7884d78d6aab" width="250"/>
+    </td>
+    <td align="center">
+      🔐 <b>Login Interface</b><br>
+      <img src="https://github.com/user-attachments/assets/2e8d275a-8a89-4d98-be40-d19c184d9ba3" width="250"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      🏠 <b>Home Module</b><br>
+      <img src="https://github.com/user-attachments/assets/fbc34d55-1d95-4f61-8213-e7acfbd98adf" width="250"/>
+    </td>
+    <td align="center">
+      📂 <b>Navigation Drawer</b><br>
+      <img src="https://github.com/user-attachments/assets/239ea62c-dd48-42fd-8f8f-ef58b6761cee" width="250"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      🗂️ <b>Categories Module</b><br>
+      <img src="https://github.com/user-attachments/assets/420f5b1b-7000-4562-b943-b84d3338122f" width="250"/>
+    </td>
+    <td align="center">
+      💳 <b>Payment Module</b><br>
+      <img src="https://github.com/user-attachments/assets/ce668a62-c3ff-4158-8504-7dcff5af9872" width="250"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      👤 <b>Admin Panel</b><br>
+      <img src="https://github.com/user-attachments/assets/56d031d6-f6cb-4265-86c5-40711b2ad71f" width="250"/>
+    </td>
+    <td align="center">
+      🌐 <b>Website Homepage</b><br>
+      <img src="https://github.com/user-attachments/assets/4b71d4a7-597a-44e7-9e1a-367ff8fa3e8f" width="250"/>
+    </td>
+  </tr>
+</table>
 
-🔐 𝗟𝗼𝗴𝗶𝗻 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 – 𝗦𝗲𝗰𝘂𝗿𝗲 𝘂𝘀𝗲𝗿 𝗹𝗼𝗴𝗶𝗻
-![Login Page](https://github.com/user-attachments/assets/2e8d275a-8a89-4d98-be40-d19c184d9ba3)
-
-🏠 𝗛𝗼𝗺𝗲 𝗠𝗼𝗱𝘂𝗹𝗲 – 𝗩𝗶𝗲𝘄 𝗮𝗹𝗹 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗳𝗼𝗿 𝗱𝗼𝗻𝗮𝘁𝗶𝗼𝗻/𝗿𝗲𝘀𝗮𝗹𝗲
-![Home Page](https://github.com/user-attachments/assets/fbc34d55-1d95-4f61-8213-e7acfbd98adf)
-
-📂 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗗𝗿𝗮𝘄𝗲𝗿 – 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀, 𝗔𝗯𝗼𝘂𝘁 𝗨𝘀, 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸, 𝗪𝗶𝘀𝗵𝗹𝗶𝘀𝘁, 𝗦𝗶𝗴𝗻 𝗢𝘂𝘁
-![Side nevigation Drawer](https://github.com/user-attachments/assets/239ea62c-dd48-42fd-8f8f-ef58b6761cee)
-
-🗂️ 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀 𝗠𝗼𝗱𝘂𝗹𝗲 – 𝗙𝗶𝗹𝘁𝗲𝗿 𝗶𝘁𝗲𝗺𝘀 (𝗕𝗼𝗼𝗸𝘀, 𝗖𝗹𝗼𝘁𝗵𝗲𝘀, 𝗲𝘁𝗰.)
-![Categories](https://github.com/user-attachments/assets/420f5b1b-7000-4562-b943-b84d3338122f)
-
-💳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗼𝗱𝘂𝗹𝗲 – 𝗣𝗮𝘆 𝘃𝗶𝗮 𝗥𝗮𝘇𝗼𝗿𝗽𝗮𝘆, 𝗩𝗶𝘀𝗮, 𝗼𝗿 𝗣𝗮𝘆𝗣𝗮𝗹
-![Payment](https://github.com/user-attachments/assets/ce668a62-c3ff-4158-8504-7dcff5af9872)
-
-👤 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹 – 𝗠𝗮𝗻𝗮𝗴𝗲 𝘂𝘀𝗲𝗿𝘀, 𝗵𝗶𝘀𝘁𝗼𝗿𝘆, 𝗮𝗻𝗱 𝗮𝗰𝘁𝗶𝗼𝗻𝘀
-![Admin Model](https://github.com/user-attachments/assets/56d031d6-f6cb-4265-86c5-40711b2ad71f)
-
-🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲 – 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
-![Website](https://github.com/user-attachments/assets/4b71d4a7-597a-44e7-9e1a-367ff8fa3e8f)
 
 
